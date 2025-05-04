@@ -1,0 +1,75 @@
+{
+    "users": [
+        {
+            "username": "keer123",
+            "password": "$2b$12$oSR7LyvDGgaAZwG4oHGmqO0Z0DvI.4KrKImJXlgk5y62fzOrgqx1m",
+            "email": "keer2154@gmail.com",
+            "face_encoding": "AAAAIE9Lx78AAACggxKwPwAAAGCE64A/AAAAgM0csb8AAACAZfqwvwAAAIAwRYi/AAAAABUjhD8AAABgeuy9vwAAAIDMwcQ/AAAA4CWMwL8AAADAi2rSPwAAAAAPIoq/AAAAIBOyyL8AAAAAtR3FvwAAACBPQaI/AAAAgNqqxT8AAACgZ5fBvwAAAEBcTcS/AAAAAHJIrr8AAACgyhO3vwAAAEAUmrK/AAAAwCDaV78AAADAt4SRPwAAAGBhzrY/AAAAgGCas78AAABAJk7ZvwAAACDRW7u/AAAAYKo7wL8AAABgZ6qMvwAAAICItLm/AAAAwGuBoL8AAABAdwC8PwAAAACthMq/AAAAAEYGs78AAAAg+4qhvwAAAMC37a8/AAAAAImbcD8AAADgXfKVPwAAAICPN8o/AAAAAJhrsj8AAADgFADFvwAAAID0u7a/AAAA4AQApD8AAACApvXRPwAAAICd8Mg/AAAAgDUcnL8AAAAA/BJIPwAAAGCl3KK/AAAAQDlhoT8AAACA+SzIvwAAAIBK47M/AAAAADzRvj8AAAAg9+zAPwAAAMBti50/AAAAANAgbL8AAADgQl24vwAAAKC826+/AAAAYAD0sj8AAAAAYiLDvwAAAKDp/W4/AAAAoNC9cT8AAAAAs/6xvwAAAAASFbq/AAAAQKgrk78AAABgO+XUPwAAAGD3YsI/AAAAwBX6t78AAADAYSLBvwAAAACCf9A/AAAAABfvtr8AAACAaomrvwAAAKD7r7I/AAAAgOdvxb8AAACgpazFvwAAAADzc9O/AAAAoNZIvj8AAABgLEDUPwAAAECrPLQ/AAAAAP/Vwr8AAAAAO9uQPwAAAAAFrci/AAAAwJWGrL8AAACATaV9vwAAAGC1orM/AAAAoHBsqr8AAAAAMBsXvwAAACDDuJu/AAAAwIIJrD8AAADgIJDEPwAAAACea5o/AAAAYEo1rr8AAABgwZfNPwAAAIC5i5u/AAAAwPEKoj8AAADgW/KsPwAAAKAxbKY/AAAAQGZlfT8AAADAVoCjvwAAAGAElcS/AAAAgDwRr78AAABgbQGvPwAAAMBvQ6u/AAAAQEi3gz8AAAAA+8XEPwAAACAZmsu/AAAAAOngtT8AAADAzKKSPwAAAGBMn5C/AAAAAGeZpj8AAAAADUuhPwAAAMBIqLK/AAAAoM62wL8AAABAViPCPwAAAAAQ/s2/AAAAwBWvxD8AAABASCLFPwAAAABq5KE/AAAAID6KwD8AAABAlxawPwAAACA/Vq4/AAAAQCCpkr8AAADA0nC5vwAAAGCbN8a/AAAAIC1Rnz8AAADghv2/PwAAAMAY5Y2/AAAAgIg/hD8AAABAtmiuPw==",
+            "face_image_path": "uploads/keer123_face.jpg"
+        },
+        {
+            "username": "keerthi256",
+            "password": "$2b$12$QDikr7C3B44EIR3yGmmyEemoSwXvXlcWuaF/Mh523Ioa33OpJW4zy",
+            "email": "keerthi265@gmail.com",
+            "face_encoding": "AAAAAMWjyL8AAABAG8CoPwAAAICTl5w/AAAAgE0fu78AAACgeZqyvwAAACCz4o8/AAAA4Fqamj8AAABg4lrAvwAAAOAMEcs/AAAAoOjyv78AAADgkv/SPwAAAEClRn+/AAAAwDgvzb8AAADgLJfGvwAAAMD3TK0/AAAAQMn2wz8AAADgzU7IvwAAAOABiMa/AAAAAFOJub8AAABA3TS2vwAAAECUkaS/AAAAYD48gr8AAAAgBh+DPwAAAAAKB7s/AAAA4K0zt78AAAAg5VLbvwAAAKAGdLS/AAAAQPBPw78AAACA+RiePwAAACDdb7K/AAAAQMXXq78AAACgB+CyPwAAAADU+s2/AAAAwGnVuL8AAABg7wCmvwAAAMDezq4/AAAAwAivUr8AAADAX4a0vwAAAEB3oM0/AAAAAO5HQb8AAACgRl/HvwAAAMBSCri/AAAAoDJPoz8AAACArt/OPwAAAGC/n8Q/AAAAIJGFp78AAABASFOfPwAAAEAo9pO/AAAAwDE9qz8AAACgCwPJvwAAAEAYnbA/AAAA4CyQwT8AAADgSvG9PwAAAODfvpE/AAAA4G+1ib8AAAAAhWbEvwAAAMBg2Kq/AAAAwMMXtz8AAADAIqfIvwAAAIBDB4C/AAAAQHYdgz8AAABA4I3BvwAAAMCAbMK/AAAAAIJMrb8AAAAATOTTPwAAAED5fME/AAAAQM07vb8AAACg3BfEvwAAAMCS1M4/AAAAgNoFtr8AAACAV4uSvwAAAMBAKq0/AAAAQPFTyL8AAAAgcaDGvwAAAIAr+dO/AAAAADgevj8AAAAgutLXPwAAAEBFrro/AAAA4P2Nxr8AAABAdeGjPwAAAOB2jMq/AAAA4KQvpb8AAAAAvt+HvwAAAMBqfcA/AAAAgFb1nL8AAAAgVQyqPwAAAEBR6q2/AAAAQPffsj8AAACgQzK+PwAAAMCHY6I/AAAAIJVSo78AAACAJZDQPwAAAABuUZA/AAAAAB6KQT8AAABAcnmqPwAAAIBPyqI/AAAAADQ8kL8AAABgjfmqvwAAAOByf8G/AAAAwLmfkL8AAABAbdO2PwAAAICQB5S/AAAAAMrOkj8AAADg5qvBPwAAAOB728q/AAAAwBGMtz8AAADgloaZPwAAAEBC+Z2/AAAA4Mmlqz8AAAAAPjCivwAAAABrkKK/AAAAwBu8w78AAABgkvDAPwAAAICwbdG/AAAA4CcIuT8AAACAhyDHPwAAAGBcc7M/AAAAANM8yj8AAABARKWiPwAAAMA1ArE/AAAAAL51f78AAACgvCGyvwAAACBFk82/AAAAYJfCjT8AAACApZu/PwAAAACZ3kM/AAAA4A0roz8AAABAU5uyPw==",
+            "face_image_path": "uploads/keerthi256_face.jpg"
+        }
+    ],
+    "doctors": [
+        {
+            "name": "krishna",
+            "username": "doctor1",
+            "password": "$2b$12$Bia0o6xAoNDtuvH9rwacHeAVfBGvM7MXfhDj0jKTkTcWpepyJdxN6",
+            "specialization": "cardiology"
+        },
+        {
+            "name": "sakthi",
+            "username": "Dermo doctor",
+            "password": "$2b$12$9y6SdPjmW7diOYabsLo0humo4Dd4zj.tlSSm7JsTSikBOTePxZqXq",
+            "specialization": "dermology"
+        },
+        {
+            "name": "karthi",
+            "username": "admin",
+            "password": "$2b$12$cqOpUwNdnfkg6we804yBCe6dRzafApfcia86qO3O6AhjCBJjYuupW",
+            "specialization": "cardiology"
+        }
+    ],
+    "doctor_messages": [
+        {
+            "doctor_username": "doctor1",
+            "user_username": "keerthi256",
+            "message": "Heart disease",
+            "file_path": "uploads/files/keerthi256_example-medical-report-1 neural.pdf",
+            "timestamp": "2025-04-12T12:49:11.684284"
+        },
+        {
+            "doctor_username": "Dermo doctor",
+            "user_username": "keerthi256",
+            "message": "vulvar lichen sclerosus",
+            "file_path": "uploads/files/keerthi256_dr-17-1-10046.pdf",
+            "timestamp": "2025-04-12T13:07:09.550566"
+        },
+        {
+            "doctor_username": "doctor1",
+            "user_username": "keerthi256",
+            "message": "heart disease",
+            "file_path": "uploads/files/keerthi256_cardio.pdf",
+            "timestamp": "2025-04-12T15:19:30.379699"
+        },
+        {
+            "doctor_username": "Dermo doctor",
+            "user_username": "keer123",
+            "message": "skin allergy",
+            "file_path": "uploads/files/keer123_biomedical blockchain.pptx",
+            "timestamp": "2025-04-28T13:20:42.338374"
+        },
+        {
+            "doctor_username": "Dermo doctor",
+            "user_username": "keer123",
+            "message": "Allergy",
+            "file_path": "uploads/files/keer123_cardio.pdf",
+            "timestamp": "2025-04-28T15:07:03.283958"
+        }
+    ]
+}
